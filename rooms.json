@@ -1,0 +1,12 @@
+{
+    "room1": { "descrizione": "una stanza bella e luminosa", "percorsi": ["est", "sud"], "oggetti": [], "mostro": "" },
+    "room2": { "descrizione": "una stanza umida e oscura", "percorsi": ["est", "sud", "ovest"], "oggetti": ["pepita"], "mostro": "" },
+    "room3": { "descrizione": "una confortevole doppia con finestra", "percorsi": ["ovest"], "oggetti": ["shield"], "mostro": "" },
+    "room4": { "descrizione": "una oscura cantina con tanta robaccia", "percorsi": ["nord"], "oggetti": ["calice"], "mostro": "" },
+    "room5": { "descrizione": "questa stanza fa schifo", "percorsi": ["nord", "est", "sud"], "oggetti": [], "mostro": "medusa" },
+    "room6": { "descrizione": "aiuto aiuto aiuto! stanza pericolosa", "percorsi": ["est", "sud"], "oggetti": [], "mostro": "dracula" },
+    "room7": { "descrizione": "non ci sono mobili", "percorsi": ["est"], "oggetti": ["spada"], "mostro": "" },
+    "room8": { "descrizione": "stanza piccola", "percorsi": ["nord", "ovest"], "oggetti": ["piece of paper"], "mostro": "" },
+    "room9": { "descrizione": "sei nella stanza piu importante", "percorsi": [], "oggetti": ["principessa"], "mostro": "" }
+  }
+  
